@@ -1,0 +1,386 @@
+Using pre-set license
+Built from '2021.3/release' branch; Version is '2021.3.28f1 (232e59c3f087) revision 2305625'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 16125 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/namik/OneDrive/Masaüstü/unity/oyun projem/blender
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+56872
+Successfully changed project path to: C:/Users/namik/OneDrive/Masaüstü/unity/oyun projem/blender
+C:/Users/namik/OneDrive/Masaüstü/unity/oyun projem/blender
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14016] Host "[IP] 192.168.1.106 [Port] 0 [Flags] 2 [Guid] 2084146467 [EditorId] 2084146467 [Version] 1048832 [Id] WindowsEditor(7,Nam�kBurak) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [14016] Host "[IP] 192.168.1.106 [Port] 0 [Flags] 2 [Guid] 2084146467 [EditorId] 2084146467 [Version] 1048832 [Id] WindowsEditor(7,Nam�kBurak) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 85.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.28f1 (232e59c3f087)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/namik/OneDrive/Masaüstü/unity/oyun projem/blender/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3977 MB
+    Driver:   31.0.15.3667
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004130 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 338 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.971 seconds
+Domain Reload Profiling:
+	ReloadAssembly (971ms)
+		BeginReloadAssembly (75ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (802ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (109ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (616ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (429ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003957 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\namik\OneDrive\Masaüstü\unity\oyun projem\blender\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\namik\OneDrive\Masaüstü\unity\oyun projem\blender\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Domain Reload Profiling:
+	ReloadAssembly (955ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (734ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (318ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (208ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (46.3 KB). Loaded Objects now: 3523.
+Memory consumption went from 112.3 MB to 112.3 MB.
+Total: 3.519700 ms (FindLiveObjects: 0.391200 ms CreateObjectMapping: 0.132800 ms MarkObjects: 2.919100 ms  DeleteObjects: 0.075200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 136661.317674 seconds.
+  path: Assets/Asset_Aircrafts/FBX/Aircraft_No1.fbx
+  artifactKey: Guid(c394698fd06714f8e96c59e960b679bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/FBX/Aircraft_No1.fbx using Guid(c394698fd06714f8e96c59e960b679bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90a48336a388c61945847aa6823e474') in 0.244841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.006456 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft01_Body.png
+  artifactKey: Guid(a95b4b7860fa549ca94bb0f764f9a013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft01_Body.png using Guid(a95b4b7860fa549ca94bb0f764f9a013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9f04a11d895157912fdd02cc3c64a8') in 0.048987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft02_Gun.png
+  artifactKey: Guid(3c76f3a7b3a304d278c28c13c7700664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft02_Gun.png using Guid(3c76f3a7b3a304d278c28c13c7700664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538d499aa436d7aaddd85c4a6165b42c') in 0.027654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft02_Body.png
+  artifactKey: Guid(f9b049c3aeae64ccf801c6d6487c86cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft02_Body.png using Guid(f9b049c3aeae64ccf801c6d6487c86cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00289fec9252618be3185a7b0d6c352') in 0.025166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft03_Gun_NRM.png
+  artifactKey: Guid(2bb340865136d4dc7ae46d56a4648440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft03_Gun_NRM.png using Guid(2bb340865136d4dc7ae46d56a4648440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10be22d1713d3562658a57a704c50ff9') in 0.028991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft03_Rotor.png
+  artifactKey: Guid(17c577fb1524e42eeae0e5701fa51ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft03_Rotor.png using Guid(17c577fb1524e42eeae0e5701fa51ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ca0b5c93afa3bc1c8aa290e6618167') in 0.015730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft04_BackRotor.png
+  artifactKey: Guid(0f37b18189e3e469e90e897a228683bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft04_BackRotor.png using Guid(0f37b18189e3e469e90e897a228683bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9c60f410d98c93433d109b1b64c209') in 0.028697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Asset_Aircrafts/Textures/AirCraft03_Body_NRM.png
+  artifactKey: Guid(d6e4d1a63ef3f48d59999d2f8c1874aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset_Aircrafts/Textures/AirCraft03_Body_NRM.png using Guid(d6e4d1a63ef3f48d59999d2f8c1874aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2894fdd6d168dc6335d331201cb2d0f7') in 0.041750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.766257 seconds.
+  path: Assets/Low Poly Rafale Jet/Prefabs
+  artifactKey: Guid(7008ae7acbae71345a42a816f3741b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Rafale Jet/Prefabs using Guid(7008ae7acbae71345a42a816f3741b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07107e352b826bac5e094c3c43abeaf5') in 0.002110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.077269 seconds.
+  path: Assets/Low Poly Rafale Jet/Prefabs/Rafale.prefab
+  artifactKey: Guid(05868fab2d415b84abdc41e4d376b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Rafale Jet/Prefabs/Rafale.prefab using Guid(05868fab2d415b84abdc41e4d376b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ae7fc4f435dbb4bd9089e13bde7f97') in 0.129963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.217680 seconds.
+  path: Assets/Low Poly Rafale Jet/Materials/color.mat
+  artifactKey: Guid(b7a1e4ae6f66e3e409ca0fc15904961e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Rafale Jet/Materials/color.mat using Guid(b7a1e4ae6f66e3e409ca0fc15904961e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd597a97801a39f334391c133f4cc9a87') in 0.035191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.388625 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterBlock_50m.prefab
+  artifactKey: Guid(7097ba7ba649e1f41bba232312bdcbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterBlock_50m.prefab using Guid(7097ba7ba649e1f41bba232312bdcbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245031e9f7171fad7513ebacbc16c437') in 0.010530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.512359 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/Carro_Armato_L6_40.prefab
+  artifactKey: Guid(6df639913147c224ea5b9ceda94435ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/Carro_Armato_L6_40.prefab using Guid(6df639913147c224ea5b9ceda94435ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67809b46ea8854509f6d5463c96ac22b') in 0.264353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/T_34_76.prefab
+  artifactKey: Guid(2ebf979aaaeff1a45966f55f233733e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/T_34_76.prefab using Guid(2ebf979aaaeff1a45966f55f233733e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18348521b278bb5b8b46de6469c4c86') in 0.095377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/Cromwell_IV.prefab
+  artifactKey: Guid(5f694739ee4c9494c905f4e9353cfe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/Cromwell_IV.prefab using Guid(5f694739ee4c9494c905f4e9353cfe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d13fa7af6a49ab5fe0bbf94e4f945c') in 0.093556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/Chi_Ha.prefab
+  artifactKey: Guid(6b0b29e0168b61c4ab830ad250f7bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/Chi_Ha.prefab using Guid(6b0b29e0168b61c4ab830ad250f7bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08db451bee00f1f3ae868e365d33770') in 0.076195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/Panzer_II_F.prefab
+  artifactKey: Guid(7c4525d5a46da0b47bbbdfd14c376381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/Panzer_II_F.prefab using Guid(7c4525d5a46da0b47bbbdfd14c376381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646eeb81cb21753c49b4a0ec9d28e4a2') in 0.059929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/M5A1_Stuart.prefab
+  artifactKey: Guid(7aff9190f32585948a8d7838a859933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/M5A1_Stuart.prefab using Guid(7aff9190f32585948a8d7838a859933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'facda031c1b1f1a3cfa6c0dc783f04e0') in 0.063307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/WW2 Armed Forces Demo/Prefabs/SOMUA_S35.prefab
+  artifactKey: Guid(1b29412902091814aaf3887729342d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Prefabs/SOMUA_S35.prefab using Guid(1b29412902091814aaf3887729342d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f143820bf8426de46cffa0b248ffa97') in 0.070264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.314018 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks
+  artifactKey: Guid(345a2ed6eb0b0984c95a55174351cb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks using Guid(345a2ed6eb0b0984c95a55174351cb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e6519b55f65a53a1bd43c6a4958792') in 0.003680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.101531 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks/Carro_Armato_L6_40.mat
+  artifactKey: Guid(e14ae0ce9ab78374d9dc7d2ba91e8ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks/Carro_Armato_L6_40.mat using Guid(e14ae0ce9ab78374d9dc7d2ba91e8ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f89aa6521c93f1d2873983681db9447') in 0.043074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks/Matilda_II.mat
+  artifactKey: Guid(0eb8bd350930aea44a2246daa6f45e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks/Matilda_II.mat using Guid(0eb8bd350930aea44a2246daa6f45e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1992a688000122a1017e4f6934b3b354') in 0.061829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks/SOMUA_S35.mat
+  artifactKey: Guid(15d5eea3ceb7c3d40bfb86e213f55e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks/SOMUA_S35.mat using Guid(15d5eea3ceb7c3d40bfb86e213f55e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0caac2e234ca1209b82707f1b539c73') in 0.056193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks/T_34_76.mat
+  artifactKey: Guid(8cff0c78103f65743b0e256637347987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks/T_34_76.mat using Guid(8cff0c78103f65743b0e256637347987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32424fd4f883ba52abd43e50b3543c9c') in 0.051229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks/M4A3(75)_Sherman.mat
+  artifactKey: Guid(cb4bc258acf06484dbdbb4990c3b9939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks/M4A3(75)_Sherman.mat using Guid(cb4bc258acf06484dbdbb4990c3b9939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c7f2449aef23ce21ce08823c0274b5') in 0.051846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Tanks/Cromwell_IV.mat
+  artifactKey: Guid(4130e29d3b8edf749927e8eb9c420c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Tanks/Cromwell_IV.mat using Guid(4130e29d3b8edf749927e8eb9c420c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06670e3a752a5df352699e2178d0480') in 0.051304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.931513 seconds.
+  path: Assets/WW2 Armed Forces Demo/Materials/Track/Track.mat
+  artifactKey: Guid(50ae672eaf06e824d92418a698b1a6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Materials/Track/Track.mat using Guid(50ae672eaf06e824d92418a698b1a6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e704b4dd53c429aef2ec98625c718f') in 0.014235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.553626 seconds.
+  path: Assets/Low Poly Rafale Jet/Textures/color.psd
+  artifactKey: Guid(bc2e36f38ce7cb047ab6f3fd2c71bc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Rafale Jet/Textures/color.psd using Guid(bc2e36f38ce7cb047ab6f3fd2c71bc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591d61fa70742b2b86ae58ad78822fd7') in 0.017199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 154.563811 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/Carro_Armato_L6_40.fbx
+  artifactKey: Guid(9760a13833901e3458983bc9201aa791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/Carro_Armato_L6_40.fbx using Guid(9760a13833901e3458983bc9201aa791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4e56737a92860ae653a87afdd47a94') in 0.277338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/SOMUA_S35.fbx
+  artifactKey: Guid(21b9d46bd64fa9c41a757d7d2bd68c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/SOMUA_S35.fbx using Guid(21b9d46bd64fa9c41a757d7d2bd68c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b82bad9608bf6c399a656693e63bb9f') in 0.248758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/M4A3(75)_Sherman.fbx
+  artifactKey: Guid(184961720d718b14094db99ebab8f232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/M4A3(75)_Sherman.fbx using Guid(184961720d718b14094db99ebab8f232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0648af7a6f18f23a0c29948422f70e9a') in 0.208549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/T_34_76.fbx
+  artifactKey: Guid(847074d2b32f2964eb762fc18231b9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/T_34_76.fbx using Guid(847074d2b32f2964eb762fc18231b9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3df34df654799815f876f3bf0b5cd3') in 0.150106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/KV_2.fbx
+  artifactKey: Guid(4cb42837d55985749928d2afa9672e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/KV_2.fbx using Guid(4cb42837d55985749928d2afa9672e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4484a29c993c6d1e3bfe3da48eea846') in 0.207159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/Hotchkiss_H35.fbx
+  artifactKey: Guid(b6a8e96f709732d49b968642c76bea2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/Hotchkiss_H35.fbx using Guid(b6a8e96f709732d49b968642c76bea2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aaa98ca2ed94ed6e973aee458867a96') in 0.175175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/WW2 Armed Forces Demo/Models/Cromwell_IV.fbx
+  artifactKey: Guid(0089e4ef716f68b4f9146fc2282177b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WW2 Armed Forces Demo/Models/Cromwell_IV.fbx using Guid(0089e4ef716f68b4f9146fc2282177b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc8f1fbd534f61db260dad3795ffa35') in 0.173461 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
